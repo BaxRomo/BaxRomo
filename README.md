@@ -1,0 +1,9 @@
+- 👋 Hola, yo soy @BaxRomo
+- 👀 Estoy interesado en aprender ...
+- 🌱 Actualmente estoy estudiando HTML y CSS ...
+- 📫 Me pueden encontrar en antonio.romoperez@cesunbc.edu.mx ...
+
+<!---
+BaxRomo/BaxRomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
